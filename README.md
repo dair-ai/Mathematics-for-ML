@@ -67,4 +67,4 @@ When you are applying machine learning you are dealing with information processi
 Book: https://www.inference.org.uk/itprnn/book.html
 
 ---
-This collection is far from exhaustive but it should provide a good foundation to learning the mathematics for machine learning. 
+This collection is far from exhaustive but it should provide a good foundation to start learning some of the mathematical concepts used in machine learning. Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
