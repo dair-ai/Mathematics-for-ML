@@ -26,6 +26,7 @@ In machine learning, we are interested in building probabilistic models and thus
 Source: https://bayes.wustl.edu/etj/prob/book.pdf
 
 ## Probabilistic Machine Learning: An Introduction
+*by Kevin Patrick Murphy*
 
 This book contains a comprehensive overview of classical machine learning methods and the principles explaining them. 
 
