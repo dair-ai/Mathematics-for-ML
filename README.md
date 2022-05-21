@@ -41,7 +41,7 @@ Video Playlist: https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQ
 ## Mathematics for Machine Learning - Linear Algebra
 *by Dr. Sam Cooper & Dr. David Dye*
 
-Agreat companion to the previous video lectures. Neural networks perform transformations on data and you need linear algebra to get better intuitions.
+Agreat companion to the previous video lectures. Neural networks perform transformations on data and you need linear algebra to get better intuitions of how that is done.
 
 Video Playlist: https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 
