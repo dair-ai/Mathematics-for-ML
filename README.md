@@ -66,5 +66,12 @@ When you are applying machine learning you are dealing with information processi
 
 Book: https://www.inference.org.uk/itprnn/book.html
 
+## Foundations of Machine Learning
+*by Mehryar Mohri, Afshin Rostamizadeh & Ameet Talwalkar*
+
+A comprehensive and accessible overview of the mathematics behind most learning algorithms (except deep learning). The appendix alone is worth a detour.
+
+Book: https://cs.nyu.edu/~mohri/mlbook/
+
 ---
 This collection is far from exhaustive but it should provide a good foundation to start learning some of the mathematical concepts used in machine learning. Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
