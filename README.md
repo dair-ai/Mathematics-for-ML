@@ -73,5 +73,27 @@ A comprehensive and accessible overview of the mathematics behind most learning 
 
 Book: https://cs.nyu.edu/~mohri/mlbook/
 
+
+## Statistics and probability
+*by Khan Academy*
+
+A complete overview of statistics and probability required for machine learning.
+
+Course: https://www.khanacademy.org/math/statistics-probability
+
+## Linear Algebra
+*by Khan Academy*
+
+Vectors, matrics, operations on them, dot & cross product, matrix multiplication etc. is essential for the most basic understanding of ML maths.
+
+Course: https://www.khanacademy.org/math/linear-algebra
+
+## Calculus
+*by Khan Academy*
+
+Precalculus, Differential Calculus, Integral Calculus, Multivariate Calculus
+
+Course: https://www.khanacademy.org/math/calculus-home
+
 ---
 This collection is far from exhaustive but it should provide a good foundation to start learning some of the mathematical concepts used in machine learning. Reach out on [Twitter](https://twitter.com/omarsar0) if you have any questions.
