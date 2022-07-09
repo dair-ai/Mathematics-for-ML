@@ -16,7 +16,7 @@ Machine learning deals with data and in turn uncertainty which is what statistic
 
 Book: https://hastie.su.domains/ElemStatLearn/
 
-If you are interested in an introduction to statistical learning, then you might want to check out ["An Introduction to Statistical Learning"](https://www.statlearning.com/)
+If you are interested in an introduction to statistical learning, then you might want to check out ["An Introduction to Statistical Learning"](https://www.statlearning.com/).
 
 ## Probability Theory: The Logic of Science
 *by E. T. Jaynes*
@@ -35,14 +35,14 @@ Book: https://probml.github.io/pml-book/book1.html
 ## Multivariate Calculus by Imperial College London
 *by Dr. Sam Cooper & Dr. David Dye*
 
-Backpropagation is a key algorithm for training deep neural nets that rely on Calculus. Get familiar with concepts like chain rule, Jacobian, gradient descent,.
+Backpropagation is a key algorithm for training deep neural nets that rely on Calculus. Get familiar with concepts like chain rule, Jacobian, gradient descent.
 
 Video Playlist: https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23
 
 ## Mathematics for Machine Learning - Linear Algebra
 *by Dr. Sam Cooper & Dr. David Dye*
 
-Agreat companion to the previous video lectures. Neural networks perform transformations on data and you need linear algebra to get better intuitions of how that is done.
+A great companion to the previous video lectures. Neural networks perform transformations on data and you need linear algebra to get better intuitions of how that is done.
 
 Video Playlist: https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 
@@ -84,7 +84,7 @@ Course: https://www.khanacademy.org/math/statistics-probability
 ## Linear Algebra
 *by Khan Academy*
 
-Vectors, matrics, operations on them, dot & cross product, matrix multiplication etc. is essential for the most basic understanding of ML maths.
+Vectors, matrices, operations on them, dot & cross product, matrix multiplication etc. is essential for the most basic understanding of ML maths.
 
 Course: https://www.khanacademy.org/math/linear-algebra
 
