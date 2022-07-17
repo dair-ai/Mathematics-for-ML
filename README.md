@@ -46,6 +46,13 @@ A great companion to the previous video lectures. Neural networks perform transf
 
 Video Playlist: https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 
+## Bayes Rules! An Introduction to Applied Bayesian Modeling
+by Alicia A. Johnson, Miles Q. Ott, Mine Dogucu
+
+Great online book covering Bayesian approaches. 
+
+Book: https://www.bayesrulesbook.com/index.html
+
 ## Mathematics for Deep Learning
 
 This reference contains some mathematical concepts to help build a better understanding of deep learning.
