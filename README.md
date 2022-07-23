@@ -66,6 +66,12 @@ In deep learning, you need to understand a bunch of fundamental matrix operation
 
 Paper: https://arxiv.org/abs/1802.01528
 
+## The Mathematics of AI
+
+An article summarising the importance of mathematics in deep learning research and how it’s helping to advance the field.
+
+Paper: https://arxiv.org/pdf/2203.08890.pdf
+
 ## Information Theory, Inference and Learning Algorithms
 *by David J. C. MacKay*
 
