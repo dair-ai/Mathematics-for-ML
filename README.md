@@ -1,6 +1,8 @@
 # Mathematics for Machine Learning
 
-A collection of resources to learn mathematics for machine learning.
+A collection of resources to learn and review mathematics for machine learning.
+
+# :book: Books
 
 ## Mathematics for Machine Learning
 *by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
@@ -9,28 +11,42 @@ This is probably the place you want to start. Start slowly and work on some exam
 
 Book: https://mml-book.github.io
 
-## The Elements of Statistical Learning
-*by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie*
-
-Machine learning deals with data and in turn uncertainty which is what statistics aims to teach. Get comfortable with topics like estimators, statistical significance, etc.
-
-Book: https://hastie.su.domains/ElemStatLearn/
-
-If you are interested in an introduction to statistical learning, then you might want to check out ["An Introduction to Statistical Learning"](https://www.statlearning.com/).
-
-## Probability Theory: The Logic of Science
-*by E. T. Jaynes*
-
-In machine learning, we are interested in building probabilistic models and thus you will come across concepts from probability theory like conditional probability and different probability distributions.
-
-Source: https://bayes.wustl.edu/etj/prob/book.pdf
-
 ## Probabilistic Machine Learning: An Introduction
 *by Kevin Patrick Murphy*
 
 This book contains a comprehensive overview of classical machine learning methods and the principles explaining them. 
 
 Book: https://probml.github.io/pml-book/book1.html
+
+## Mathematics for Deep Learning
+
+This reference contains some mathematical concepts to help build a better understanding of deep learning.
+
+Chapter: https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html 
+
+## Bayes Rules! An Introduction to Applied Bayesian Modeling
+by Alicia A. Johnson, Miles Q. Ott, Mine Dogucu
+
+Great online book covering Bayesian approaches. 
+
+Book: https://www.bayesrulesbook.com/index.html
+
+# 📄 Papers
+
+## The Matrix Calculus You Need For Deep Learning
+*by Terence Parr & Jeremy Howard*
+
+In deep learning, you need to understand a bunch of fundamental matrix operations. If you want to dive deep into the math of matrix calculus this is your guide.
+
+Paper: https://arxiv.org/abs/1802.01528
+
+## The Mathematics of AI
+
+An article summarising the importance of mathematics in deep learning research and how it’s helping to advance the field.
+
+Paper: https://arxiv.org/pdf/2203.08890.pdf
+
+# 🎥 Video Lectures
 
 ## Multivariate Calculus by Imperial College London
 *by Dr. Sam Cooper & Dr. David Dye*
@@ -46,31 +62,31 @@ A great companion to the previous video lectures. Neural networks perform transf
 
 Video Playlist: https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 
-## Bayes Rules! An Introduction to Applied Bayesian Modeling
-by Alicia A. Johnson, Miles Q. Ott, Mine Dogucu
+## CS229: Machine Learning
+*by Anand Avati*
 
-Great online book covering Bayesian approaches. 
+Lectures containing mathematical explanations to many concepts in machine learning. 
 
-Book: https://www.bayesrulesbook.com/index.html
+Course: https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh
 
-## Mathematics for Deep Learning
+# 🧮 Math Basics
 
-This reference contains some mathematical concepts to help build a better understanding of deep learning.
+## The Elements of Statistical Learning
+*by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie*
 
-Chapter: https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html 
+Machine learning deals with data and in turn uncertainty which is what statistics aims to teach. Get comfortable with topics like estimators, statistical significance, etc.
 
-## The Matrix Calculus You Need For Deep Learning
-*by Terence Parr & Jeremy Howard*
+Book: https://hastie.su.domains/ElemStatLearn/
 
-In deep learning, you need to understand a bunch of fundamental matrix operations. If you want to dive deep into the math of matrix calculus this is your guide.
+If you are interested in an introduction to statistical learning, then you might want to check out ["An Introduction to Statistical Learning"](https://www.statlearning.com/).
 
-Paper: https://arxiv.org/abs/1802.01528
 
-## The Mathematics of AI
+## Probability Theory: The Logic of Science
+*by E. T. Jaynes*
 
-An article summarising the importance of mathematics in deep learning research and how it’s helping to advance the field.
+In machine learning, we are interested in building probabilistic models and thus you will come across concepts from probability theory like conditional probability and different probability distributions.
 
-Paper: https://arxiv.org/pdf/2203.08890.pdf
+Source: https://bayes.wustl.edu/etj/prob/book.pdf
 
 ## Information Theory, Inference and Learning Algorithms
 *by David J. C. MacKay*
@@ -79,19 +95,6 @@ When you are applying machine learning you are dealing with information processi
 
 Book: https://www.inference.org.uk/itprnn/book.html
 
-## Foundations of Machine Learning
-*by Mehryar Mohri, Afshin Rostamizadeh & Ameet Talwalkar*
-
-A comprehensive and accessible overview of the mathematics behind most learning algorithms (except deep learning). The appendix alone is worth a detour.
-
-Book: https://cs.nyu.edu/~mohri/mlbook/
-
-## CS229: Machine Learning
-*by Anand Avati*
-
-Lectures containing mathematical explanations to many concepts in machine learning. 
-
-Course: https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh
 
 ## Statistics and probability
 *by Khan Academy*
