@@ -87,6 +87,13 @@ A comprehensive and accessible overview of the mathematics behind most learning 
 Book: https://cs.nyu.edu/~mohri/mlbook/
 
 
+## CS229: Machine Learning
+*by Anand Avati*
+
+Lectures containing mathematical explanations to many concepts in machine learning. 
+
+Course: https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh
+
 ## Statistics and probability
 *by Khan Academy*
 
