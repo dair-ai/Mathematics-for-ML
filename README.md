@@ -4,6 +4,13 @@ A collection of resources to learn and review mathematics for machine learning.
 
 # :book: Books
 
+### Applied Math and Machine Learning Basics
+*by Ian Goodfellow and Yoshua Bengio and Aaron Courville*
+
+This includes the math basics for deep learning from the [Deep Learning](https://www.deeplearningbook.org/) book. 
+
+Chapter: https://www.deeplearningbook.org/contents/part_basics.html
+
 ### Mathematics for Machine Learning
 *by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
 
