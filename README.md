@@ -86,7 +86,6 @@ A comprehensive and accessible overview of the mathematics behind most learning 
 
 Book: https://cs.nyu.edu/~mohri/mlbook/
 
-
 ## CS229: Machine Learning
 *by Anand Avati*
 
@@ -100,6 +99,12 @@ Course: https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh
 A complete overview of statistics and probability required for machine learning.
 
 Course: https://www.khanacademy.org/math/statistics-probability
+
+## Linear Algebra Done Right
+
+Slides and video lectures on the popular linear algebra book Linear Algebra Done Right. 
+
+Lecture and Slides: https://linear.axler.net/LADRvideos.html
 
 ## Linear Algebra
 *by Khan Academy*
