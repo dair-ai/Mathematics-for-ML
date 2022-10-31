@@ -4,6 +4,13 @@ A collection of resources to learn and review mathematics for machine learning.
 
 # :book: Books
 
+### Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
+*by Jean Gallier and Jocelyn Quaintance*
+
+Includes mathematical concepts for machine learning and computer science. 
+
+Book: https://www.cis.upenn.edu/~jean/math-deep.pdf
+
 ### Applied Math and Machine Learning Basics
 *by Ian Goodfellow and Yoshua Bengio and Aaron Courville*
 
