@@ -33,13 +33,14 @@ This book contains a comprehensive overview of classical machine learning method
 Book: https://probml.github.io/pml-book/book1.html
 
 ### Mathematics for Deep Learning
+*by Brent Werness, Rachel Hu et al.*
 
 This reference contains some mathematical concepts to help build a better understanding of deep learning.
 
 Chapter: https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html 
 
 ### Bayes Rules! An Introduction to Applied Bayesian Modeling
-by Alicia A. Johnson, Miles Q. Ott, Mine Dogucu
+*by Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
 
 Great online book covering Bayesian approaches. 
 
@@ -55,6 +56,7 @@ In deep learning, you need to understand a bunch of fundamental matrix operation
 Paper: https://arxiv.org/abs/1802.01528
 
 ### The Mathematics of AI
+*by Gitta Kutyniok*
 
 An article summarising the importance of mathematics in deep learning research and how it’s helping to advance the field.
 
@@ -117,6 +119,7 @@ A complete overview of statistics and probability required for machine learning.
 Course: https://www.khanacademy.org/math/statistics-probability
 
 ### Linear Algebra Done Right
+*by Sheldon Axler*
 
 Slides and video lectures on the popular linear algebra book Linear Algebra Done Right. 
 
