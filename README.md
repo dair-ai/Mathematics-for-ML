@@ -39,6 +39,13 @@ This reference contains some mathematical concepts to help build a better unders
 
 Chapter: https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html 
 
+### The Mathematical Engineering of Deep Learning
+*by Benoit Liquet, Sarat Moka and Yoni Nazarathy*
+
+This book provides a complete and concise overview of the mathematical engineering of deep learning. In addition to overviewing deep learning foundations, the treatment includes convolutional neural networks, recurrent neural networks, transformers, generative adversarial networks, reinforcement learning, and multiple tricks of the trade. The focus is on the basic mathematical description of deep learning models, algorithms and methods.
+
+Book: https://deeplearningmath.org
+
 ### Bayes Rules! An Introduction to Applied Bayesian Modeling
 *by Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
 
